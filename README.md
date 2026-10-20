@@ -1,5 +1,7 @@
 # triangle-classifier
 
+An equilateral triangle can never also be a right triangle, as a right triangle must have a 90 degree angle. This would indicate an impossibility for an equilateral triangle, as it requires 3 sides to have equal angles, unless it wants to be a 180 degree line. 
+
 ## Review log
 
 | Test | Copilot-suggested? | Kept/edited/rejected | Why |
